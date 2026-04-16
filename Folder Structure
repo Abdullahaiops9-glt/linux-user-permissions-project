@@ -1,0 +1,12 @@
+📂 Folder Structure
+linux-user-permissions-project/
+│
+├── README.md
+├── commands.sh
+├── notes.md
+├── screenshots/
+│   ├── user_creation.png
+│   ├── permission_test.png
+│   └── access_denied.png
+└── docs/
+    └── project-explanation.md

@@ -1,5 +1,3 @@
-Linux Server Setup Project - User Management & Permissions
-
 # 🐧 Linux Server Setup – User & Permission Management
 
 ## 🎯 Project Overview

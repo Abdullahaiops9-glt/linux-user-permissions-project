@@ -1,4 +1,3 @@
- linux-user-permissions-project
 Linux Server Setup Project - User Management & Permissions
 
 # 🐧 Linux Server Setup – User & Permission Management

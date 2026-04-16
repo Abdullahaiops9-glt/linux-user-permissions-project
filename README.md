@@ -1,9 +1,10 @@
-# linux-user-permissions-project
-Linux Server Setup Project - User Management &amp; Permissions
+ linux-user-permissions-project
+Linux Server Setup Project - User Management & Permissions
 
 # 🐧 Linux Server Setup – User & Permission Management
 
 ## 🎯 Project Overview
+
 This project demonstrates Linux system administration skills including user creation, group management, and file permission control.
 
 ---
@@ -28,6 +29,7 @@ This project demonstrates Linux system administration skills including user crea
     Real-world admin workflow
 
 ## 🚀 Outcome
+
 Successfully implemented secure Linux environment with controlled access.
 ---
 
@@ -42,15 +44,18 @@ git remote add origin https://github.com/Abdullahaiops9-glt/linux-user-permissio
 git push -u origin main
 
 ## 🌐 GitLab Commands
+
 git remote add gitlab https://gitlab.com/abdullahaiops9/linux-user-permissions-project 
 
 git push gitlab main
 
 ## ⚠️ Common Problems + Fix
+
 ❌ Home directory error
 su: cannot change directory
 
 ##  ✔ Fix:
+
 useradd -m username
 ❌ Empty folder after login
 ✔ Normal (no files yet)
